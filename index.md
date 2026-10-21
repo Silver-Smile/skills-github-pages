@@ -1,3 +1,3 @@
 ---
-Theme: Welcome to my blog! <h5>
+Theme: Welcome to my blog!
 ---
